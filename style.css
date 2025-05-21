@@ -2,3 +2,15 @@ html {
   height: 100%;
   width: 100%;
 }
+
+img {
+  width:200px;
+}
+
+body {
+  text-align: center;
+  font-family: 'Arial';
+  background: #fff0f6;
+  color: purple;
+}
+
